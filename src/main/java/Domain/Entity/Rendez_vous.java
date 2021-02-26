@@ -24,7 +24,6 @@ public class Rendez_vous {
 	private Citoyen citoyen;
 	public Rendez_vous(Date dateRDV, Citoyen citoyen) {
 		super();
-		//this.idRDV = idRDV;
 		this.dateRDV = dateRDV;
 		this.citoyen = citoyen;
 	}

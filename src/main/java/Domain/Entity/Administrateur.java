@@ -38,7 +38,6 @@ public class Administrateur {
 	public Administrateur(String nom_A, String prenom_A, String adresse_A, Date dateNaiss_A, int tel_A,
 			int matricule) {
 		super();
-		//CIN_A = cIN_A;
 		this.nom_A = nom_A;
 		this.prenom_A = prenom_A;
 		this.adresse_A = adresse_A;

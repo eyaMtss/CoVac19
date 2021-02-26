@@ -29,7 +29,6 @@ public class Centre_Vaccination {
 	public Centre_Vaccination(String nomCentre, String adresseCentre, int nbPersonnel, int stockVacc,
 			Administrateur admin) {
 		super();
-		//this.idCentre = idCentre;
 		this.nomCentre = nomCentre;
 		this.adresseCentre = adresseCentre;
 		this.nbPersonnel = nbPersonnel;

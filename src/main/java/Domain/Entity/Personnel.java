@@ -50,7 +50,6 @@ public class Personnel {
 	public Personnel(String nom_P, String prenom_P, String adresse_P, Date dateNaiss_P, int tel_P,
 			String horaire_P, float salaire_P, Centre_Vaccination centre) {
 		super();
-		//CIN_P = cIN_P;
 		this.nom_P = nom_P;
 		this.prenom_P = prenom_P;
 		this.adresse_P = adresse_P;

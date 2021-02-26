@@ -29,7 +29,6 @@ public class Citoyen {
 	private boolean etat=false;
 	public Citoyen(String nom_C, String prenom_C, Date dateNaiss_C, int tel_C) {
 		super();
-		//CIN_C = cIN_C;
 		this.nom_C = nom_C;
 		this.prenom_C = prenom_C;
 		this.dateNaiss_C = dateNaiss_C;
